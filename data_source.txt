@@ -1,1 +1,8 @@
-The Google-search results were obtained using pygoogle library.
+In order to use historical weather conditions I used data from the National Oceanic and Atmospheric Administration website:
+http://www.ncdc.noaa.gov/cdo-web/
+
+The data related to the bike usage were taken from the city bike share system website:
+http://www.citibikenyc.com/system-data
+
+I also analysed the taxi data taken form:
+http://www.andresmh.com/nyctaxitrips/
